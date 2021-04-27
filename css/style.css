@@ -7,6 +7,21 @@ body {
   background-color: #dce5e4 !important;
 }
 
+.google-maps {
+        position: relative;
+        padding-bottom: 75%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
 .rcorners2 {
   border-radius: 50px;
   border: 2px solid #16c6ef;
@@ -108,7 +123,7 @@ margin: auto;
 .li-abajo span {
     color : black;
 }
- 
+
 .btn-cheto {
   background-color: transparent;
   border-color: #35bde7s;
