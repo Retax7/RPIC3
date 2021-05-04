@@ -136,7 +136,11 @@
         <strong>Carlos Soria &lt;</strong>csoria@inaut.unsj.edu.ar&gt;<br />
         <strong>Enrique Spinelli </strong>spinelli@ing.unlp.edu.ar<br />
         <strong>Marcos Toibero </strong>mtoibero@inaut.unsj.edu.ar<br />
-        <strong>Santiago Tosetti &lt;</strong>stosetti@inaut.unsj.edu.ar&gt;</p>
+        <strong>Santiago Tosetti &lt;</strong>stosetti@inaut.unsj.edu.ar&gt;
+        <strong>Miyara, Federico UNR</strong><br />
+        <strong>Accolti, Ernesto, UNSJ (Inv. Asistente </strong><br />
+        <strong>Orellana, Adrián, UNSJ (Prof. de CONICET) </strong><br />
+      </p>
     </div>
   </div>
 </div>

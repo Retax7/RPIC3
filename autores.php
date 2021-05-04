@@ -13,7 +13,7 @@
           Informacion para autores
         </h1>
         <p class="text-center">
-          Los artículos completos serán publicados en el CD de trabajos del RPIC 2021 y existe la posibilidad de que los trabajos, que a criterio del comité editorial posean suficiente calidad, sean publicados en el IEEE Xplore. Para ello, los
+          Los artículos completos serán publicados en los anales del congreso de trabajos del RPIC 2021 y existe la posibilidad de que los trabajos, que a criterio del comité editorial posean suficiente calidad, sean publicados en el IEEE Xplore. Para ello, los
           artículos deben ser redactados en idioma inglés, sin excepción. Además, dado que actualmente la publicación en IEEExplorer no es gratis, existe un costo fijo que será financiado por la conferencia, pero existe un costo de publicación para
           cada artículo de USD ……… y el mismo deberá ser solventado por los autores. En cuanto a este último medio, los autores serán consultados sobre si desean o NO, la publicación de su trabajo. El envío de contribuciones originales puede
           realizarse en idioma Español o Inglés, con un máximo de 6 páginas (tamaño A4), en las áreas de interés mencionadas. El formato de los trabajos seguirá los lineamientos de IEEE, y se encuentra disponible para su descarga una plantilla para

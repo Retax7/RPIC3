@@ -59,7 +59,7 @@
           <li><span>Inscripción RPIC 2021 – Nro. trabajo – Apellido, Nombre.</span></li>
         </ul>
         <p><strong class="text-celeste">En el mismo email adjuntar PDF o imagen del comprobante de pago.</strong>
-          <img class="img-fluid sobre" alt="Responsive image" src="img/sobre.png">
+          <img class="img-fluid sobre" alt="Responsive image" style ="float: right;max-height: 80%;" src="img/sobre.png">
           <br /><br />
       </div>
     </div>

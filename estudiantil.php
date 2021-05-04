@@ -57,7 +57,7 @@ Es una instancia dentro de la Reunión de Procesamiento de la Información y Con
         <div class="col-sm-8 py-2">
           <p>
             <strong>¿Por qué participar?<br /><br /></strong>
-La RPIC estudiantil es una instancia para que los estudiantes avanzados de grado o recién graduados puedan:
+La RPIC estudiantil es una instancia para que los estudiantes avanzados de grado o recién graduados puedan:<br />
 • Presentar y discutir sus trabajos con otros estudiantes o con especialistas de temas afines.<br />
 • Asistir a tutoriales y charlas de temas que se encuentran en la frontera de cada especialidad.<br />
 • Adquirir experiencia en la redacción de trabajos científicos.<br />
